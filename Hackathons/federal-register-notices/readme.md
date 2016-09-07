@@ -1,0 +1,1 @@
+Any FR notice created from resources here should still be reviewed by your agency legal staff. They always end up making edits to our docs, even when they originated from one that was previously approved.
